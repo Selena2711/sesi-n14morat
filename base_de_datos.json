@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Simón Vargas Morales",
+        "imagen": "imagenes/integrantes/simon_vargas.jfif"
+       
+    },
+    {
+        "nombre": "Martin Vargas Morales",
+        "imagen": "imagenes/integrantes/martin_vargas.jfif" 
+    },
+    {
+        "nombre": "Juan Pablo Isaza",
+        "imagen": "imagenes/integrantes/juan.jfif"
+    },
+    {
+        "nombre": "Juan Pablo Villamil",
+        "imagen": "imagenes/integrantes/pablo_vilamil.jfif"
+    }
+
+
+
+]
